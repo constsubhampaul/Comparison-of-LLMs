@@ -1,0 +1,1 @@
+Designed a benchmarking framework to evaluate multiple open-source LLMs Llama-3,Qwen-2.5, Mistral across standardized QA datasets and evaluation metrics included namely accuracy, hallucination rate, consistency analysis, prompt robustness, and uncertainty estimation.
